@@ -9,7 +9,7 @@
 Here are some of the project's best features:
 
 *   Estimate the peak partial velocity of pile driving in Bangkok subsoil
-*   The features of the model are - pile size, pile length, hammer weight, hammer height, distance to pile driving, location of the sensor, axis of sensor
+*   The features of the model are - pile size, pile length, hammer weight, hammer height, distance to pile driving, location of the sensor, the axis of the sensor
   
 
 <h2>🛠️ Installation Steps:</h2>
@@ -26,7 +26,7 @@ git clone https://github.com/Sompote/pile_PPV
 open notebook  pile_PPV_inference.ipynb
 ```
 
-<p>2. Changing features</p>
+<p>3. Changing features</p>
 
 The feature of pile driving just input it in the Numpy array: 
 
@@ -45,4 +45,4 @@ X_t=np.array([300,18,4.2,0.5,30,1,1])
 Additional data for pile driving are welcomed to train the model making it more efficient.
 
 <h2>Acknowledgements:</h2>
-Thanks, STS Co. Ltd for provide a testing data,
+Thanks, STS Co. Ltd for providing a testing data,

@@ -52,4 +52,4 @@ X_t=np.array([300,18,4.2,0.5,30,1,1])
 Additional data for pile driving are welcomed to train the model making it more efficient.
 
 <h2>Acknowledgements:</h2>
-Thanks, STS Co. Ltd for providing a testing data,
+Thanks, STS Co. Ltd for providing a testing data.

@@ -1,6 +1,8 @@
 <h1 align="center" id="title">Predicitng Vibration from Pile Driving in Bangkok Subsoil</h1>
 
-<p id="description">This is the inference part according to the paper 'Predicting Pile-Induced Vibrations in Bangkok Subsoil: A Neural Network Approach</p>
+<p id="description">This is the inference part according to the paper 'Predicting Pile-Induced Vibrations in Bangkok Subsoil: A Neural Network Approach by Sompote Youwai						
+Anuwat Pamungmoon
+</p>
 
   
   

@@ -38,7 +38,7 @@ open notebook  pile_PPV_inference.ipynb
 The feature of pile driving just input it in the Numpy array: 
 
 
-input [pile length(m), weight (ton), drop height (m), distance (m), Location, trigger]
+input [pile width (mm), pile length(m), weight (ton), drop height (m), distance (m), Location, trigger]
 #location 1:on ground 2:on foundation 3: on building
 #trigger 1: longitudinal 2:transverse 3:vertical)
 

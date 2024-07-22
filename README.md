@@ -46,6 +46,11 @@ input [pile width (mm), pile length(m), weight (ton), drop height (m), distance 
 
 X_t=np.array([300,18,4.2,0.5,30,1,1])
 ```
+<p>2.  Web app Inference</p>
+https://huggingface.co/spaces/neng123/Pile_particle_velocity
+
+
+
 
 <h2>🍰 Contribution Guidelines:</h2>
 
